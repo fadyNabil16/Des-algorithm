@@ -1,0 +1,10 @@
+# Build artifacts
+build/
+des_app
+*.o
+*.obj
+*.exe
+
+# Editor files
+.vscode/
+.DS_Store
